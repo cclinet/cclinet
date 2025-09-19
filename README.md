@@ -2,10 +2,10 @@
 
 ### Tech stack
 
-Languages: Python • C++ • TypeScript/JavaScript
-ML/DS: PyTorch • NumPy • Pandas
-Systems/Infra: ArchLinux
-Frontend: Astro • React
+- Languages: Python • C++ • TypeScript/JavaScript
+- ML/DS: PyTorch • NumPy • Pandas
+- Systems/Infra: ArchLinux
+- Frontend: Astro • React
 
 ### Get in touch
 
